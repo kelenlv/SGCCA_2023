@@ -7,7 +7,7 @@ A description on the files contained in this repository.
 
 ```
 SGCCA_2023
-├── bselines
+├── baselines
 |   ├── solvers.m
 |       └── ...
 |   ├── SCGCCA.m
