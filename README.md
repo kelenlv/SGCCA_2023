@@ -8,8 +8,16 @@ A description on the files contained in this repository.
 ```
 SGCCA_2023
 ├── bselines
+|   ├── solvers.m
+|       └── ...
 |   ├── SCGCCA.m
-|   └── PDD.m
+|   ├── PDD.m
+|   ├── cal_AROC.m
+|   ├── cal_G_error.m
+|   ├── cal_acc.m
+|   ├── cal_correlation.m
+|   ├── cal_spare.m
+|   └── stratup.m
 ├── 
 ├── ...
 ```
