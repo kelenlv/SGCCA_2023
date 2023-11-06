@@ -40,7 +40,7 @@ disp('running parallel PDD-l1');
 % [U_pddl21,G_pddl21,Q_pddl21 ] = fast_PDD_3L21( train_data,P,I,U,G,out_iter,in_iter,rho,lamda);
 % disp(['cost: ',num2str(costXQ(I,X,Q_pddl21))]);
 elapsedTime = toc;
-disp(['运行时间：' num2str(elapsedTime) ' 秒']);
+disp(['脭脣脨脨脢卤录盲拢潞' num2str(elapsedTime) ' 脙毛']);
 list_projection= {train_data{1}*Q_pddl1{1}, train_data{2}*Q_pddl1{2}, train_data{3}*Q_pddl1{3}};
 list_projection_test= {test_data{1}*Q_pddl1{1}, test_data{2}*Q_pddl1{2}, test_data{3}*Q_pddl1{3}};
 % G = solve_g(train_data);
